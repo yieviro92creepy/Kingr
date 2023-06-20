@@ -1,4 +1,4 @@
-local IMAGE = "rbxassetid://11677001091"
+local IMAGE = "rbxassetid://13807227698"
 
 local Positions = UDim2.new(0.822025776, 0, 0.0401606411, 0)
 
@@ -10,7 +10,7 @@ local _100x100 = Instance.new("Frame")
 
 local ImageButton = Instance.new("ImageButton")
 
-KINGHUBMOBILE.Name = "KING HUB MOBILE"
+KINGHUBMOBILE.Name = "REBOUND MOBILE"
 
 KINGHUBMOBILE.Parent = game:WaitForChild("CoreGui")
 
