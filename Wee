@@ -36,10 +36,10 @@ ImageButton.Image = IMAGE
 
 ImageButton.MouseButton1Down:connect(function()
 
-	local vim = game:service("VirtualInputManager")	vim:SendKeyEvent(true, "RightControl", false, game)
+	local vim = game:service("VirtualInputManager")	vim:SendKeyEvent(true, "RightShift", false, game)
 
 	local vim = game:service("VirtualInputManager")
 
-	vim:SendKeyEvent(fales, "RightControl", false, game)
+	vim:SendKeyEvent(fales, "RightShift", false, game)
 
 end)
